@@ -1,4 +1,4 @@
-# DCGAN
+# Deep Convolutional Generative Adversarial Networks (DCGANS)
 This Network generate images of clothing item using a Deep Convolutional Generative Adversarial Network (DCGAN). The code is written using the Keras Sequential API 
 
 This project is based on a guided project offered on [Coursera](https://www.coursera.org/learn/generative-adversarial-networks-keras/).
