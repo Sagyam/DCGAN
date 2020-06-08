@@ -14,6 +14,10 @@ During training, the generator progressively becomes better at creating images t
 
 ![](https://www.tensorflow.org/tutorials/generative/images/gan2.png)
 
+Architecture of DCGAN
+
+![](https://camo.githubusercontent.com/751861840717de70c2f18a0c94061b4c23e66114/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313030302f312a723841497a557042634e7a70692d4a4e33674c5774672e706e67)
+
 Some generated images after traning for 5 epochs
 
 ![](https://user-images.githubusercontent.com/45777019/84037270-0f12eb80-a9be-11ea-8e83-1edb51b27061.png)
